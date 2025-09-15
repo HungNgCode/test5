@@ -5,7 +5,7 @@
 
 # 🌌 Profile Giới thiệu bản thân v1.0  
 
-> BY **TRẦN HÀO DEV 🚀**  
+> BY **Hùng Ng DEV 🚀**  
 > TEAM **DARKSTACK**
 
 ---
@@ -21,7 +21,7 @@
 ## 🚀 Giới thiệu
 <span style="font-size:14px">
 
-- 🛠️ CODE **PROFILE V1** được phát triển bởi **Trần Hào Dev**  
+- 🛠️ CODE **PROFILE V1** được phát triển bởi **Hùng Ng DEV**  
 - 👥 Thuộc team **DARKSTACK**  
 - 🎯 Mục đích: **TIỆN ÍCH VÀ NHANH CHÓNG**  
 - ⚡ NGÔN NGỮ: **HTML** 
@@ -45,9 +45,4 @@
 
 ---
 
-## ⚡ Cài đặt & chạy
-```bash
-# Clone repo
-git clone https://github.com/haohaone1029/profile-v1.0.git
 
-# Mở file index.html bằng trình duyệt
